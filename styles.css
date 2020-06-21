@@ -1,0 +1,38 @@
+ 
+      
+        .card{
+            
+           margin-left: 350px;
+            background-color: #0099FF;
+            color: white;
+           
+        }
+            
+                        
+            
+      body { 
+          background: url(back7.jpg) no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          }
+            
+        .navtext{
+            text-align: center;
+            color: white;
+        }
+        
+       
+            
+        h2{
+            text-align: center;
+            color: black;
+            font-family: times new roman;
+            margin-top: 20px;
+        }
+        
+      
+      
+  
+      
